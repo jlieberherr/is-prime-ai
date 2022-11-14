@@ -8,7 +8,7 @@ Can a neural network detect prime numbers?
 - ```cd YOUR_NAME_OF_THE_VENV```
 - ```Scripts\activate```
 - Navigate to dev-folder
-- ```git clone https://github.com/jlieberherr/is-prime-ai.git```
+- ```git clone https://github.com/jlieberherr/is-prime-ai.git``` (only the first time)
 - ```cd is-prime-ai```
 - ```pip install -r requirements.txt``` (only the first time)
 - ```jupyter lab```
